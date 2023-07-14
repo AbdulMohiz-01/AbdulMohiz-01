@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center"> Hi 👋, I'm Abdul Mohiz </h1>
+<h3 align="center">A passionate Web Developer from Pakistan</h3>
 🔭 Currently coding, chasing semicolons.<br>👯 Seeking collaborations for epic projects.<br>🤝 Needing assistance with web performance tricks.<br>🌱 Learning MERN stack, growing skills.<br>💬 Ask me about JavaScript quirks.<br>⚡ Fun fact: Penguins have knees hidden!
 
 
