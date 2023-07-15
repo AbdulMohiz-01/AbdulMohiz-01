@@ -3,7 +3,12 @@
 <br>
 <img align="right" alt="coding" width=350px src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 <br>
-🔭 Currently coding, chasing semicolons.<br>👯 Seeking collaborations for epic projects.<br>🤝 Needing assistance with web performance tricks.<br>🌱 Learning MERN stack, growing skills.<br>💬 Ask me about JavaScript quirks.<br>⚡ Fun fact: I'm not lazy, I'm just on energy-saving mode.
+👨‍💻 Dedicated web developer with a coding focus. <br>
+🌐 Open to collaborative projects and partnerships. <br>
+⚙️ Seeking expertise in optimizing web performance. <br>
+📚 Expanding skills with the MERN stack. <br>
+💡 Knowledgeable in JavaScript intricacies. <br>
+🚀 Fun fact: Efficiency-driven, not idle-minded. 
 <br>
 
 ## 🌐 Socials:
