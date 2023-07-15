@@ -1,6 +1,8 @@
-<h1 align="center"> Hi 👋, I'm Abdul Mohiz </h1>
-<h3 align="center">I develop websites</h3>
-<br>
+<h1 align="center">Hi 👋, I'm Abdul Mohiz</h1>
+<p align="center">
+  <img alt="Mastering art of Web Development" src="https://github.com/AbdulMohiz-01/AbdulMohiz-01/blob/main/lasst.gif">
+</p>
+
 <img align="right" alt="coding" width=350px src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 <br>
 👨‍💻 Dedicated web developer with a coding focus. <br>
